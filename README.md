@@ -19,7 +19,7 @@ In order to easily get started with all of the assignments you will need:
 - Access to Github Copilot X
 - Visual Studio Code
 - Copilot Nightly Extension for Visual Studio Code
-- Authenticat the Extension with your Github Account
+- Authenticate the Extension with your Github Account
 - [node and npm installed](https://nodejs.org/en)
 - Python 3
 - Ideally [tfsec](https://github.com/aquasecurity/tfsec), although only needed for one exercise
