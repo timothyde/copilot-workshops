@@ -22,6 +22,7 @@ In order to easily get started with all of the assignments you will need:
 - Authenticat the Extension with your Github Account
 - [node and npm installed](https://nodejs.org/en)
 - Python 3
+- Ideally [tfsec](https://github.com/aquasecurity/tfsec), although only needed for one exercise
 
 ## Getting started
 
